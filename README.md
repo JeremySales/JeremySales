@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeremy, welcome!
-- I’m a Des Moines🌽 based software engineer, coding full-stack Javascript applications.
-- 🌱 I’m currently focusing on Full-Stack applications.
+- I’m a Des Moines🌽 based software engineer at 100Devs, coding full-stack Javascript applications.
 - 👨🏽‍💻 check out my projects here: https://jeremysales.netlify.app/
 - 📫 How to reach me: salesjeremy37@gmail.com
 
