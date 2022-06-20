@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy, welcome!</h1>
 <h3 align="center">I’m a Des Moines🌽 based software engineer with 100Devs, coding full-stack Javascript applications.</h3>
-
+<img src = "https://www.codewars.com/users/JeremySales/badges/small">
+     
 <p align="left"> <a href="https://twitter.com/j_jsales" target="blank"><img src="https://img.shields.io/twitter/follow/j_jsales?logo=twitter&style=for-the-badge" alt="j_jsales" /></a> </p>
 
 - 👨‍💻 Some of my projects are available at [JeremySales.me/](https://jeremysales.me/)
